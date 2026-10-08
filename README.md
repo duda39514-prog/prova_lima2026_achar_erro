@@ -134,3 +134,4 @@ footer {
 
 ## Alguns erros:
 ![erro1](./erro18)
+![erro02](./erro22)
