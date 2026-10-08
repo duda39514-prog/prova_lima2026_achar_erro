@@ -1,6 +1,6 @@
 # Prova de LIMA 2026
 
-# Tarefas: 
+# Objetivo: 
 ## Achar erros no código enviado pelo professor: 
 
 ## Código errado: 
