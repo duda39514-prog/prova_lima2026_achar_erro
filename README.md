@@ -1,7 +1,7 @@
 # Prova de LIMA 2026
 
 # Objetivo: 
-## Achar erros no código enviado pelo professor: 
+ Achar erros no código enviado pelo professor: 
 
 ## Código errado: 
 ## Html:
