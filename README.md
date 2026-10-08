@@ -54,6 +54,6 @@
 ````
 
 ## Alguns exemplos de erros no html: 
-![erro1](./c:\Users\Maria Eduarda Betim\Pictures\Screenshots\Captura de tela 2026-10-06 141249.png)
-![erro2]("./c:\Users\Maria Eduarda Betim\Pictures\Screenshots\Captura de tela 2026-10-06 141511.png")
-![erro3]("./c:\Users\Maria Eduarda Betim\Pictures\Screenshots\Captura de tela 2026-10-06 141437.png")
+![erro1](./erro01)
+![erro2](./erro02)
+![erro3](./erro03)
