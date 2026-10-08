@@ -5,7 +5,7 @@
 
 ## Código errado: 
 ## Html:
-
+````
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -51,6 +51,7 @@
   </fotter>
 </body>
 </html>
+````
 
 ## Alguns exemplos de erros no html: 
 ![erro1](./erro01)
@@ -60,6 +61,7 @@
 
 ## Código errado: 
 ## Css:
+````
 body {
   margin 0
   font-family Arial, sans-serif
@@ -128,4 +130,7 @@ footer {
   color white;
   margin-top 20px;
 }
+````
 
+## Alguns erros:
+![erro1](./erro17)
